@@ -21,3 +21,5 @@ console.log(Americano);
 
 const CheezeBread = new breadMenu("CheezeBread", 4000);
 console.log(CheezeBread);
+
+console.log("a");
